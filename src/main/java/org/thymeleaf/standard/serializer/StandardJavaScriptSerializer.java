@@ -19,9 +19,9 @@
  */
 package org.thymeleaf.standard.serializer;
 
-import java.beans.IntrospectionException;
-import java.beans.Introspector;
-import java.beans.PropertyDescriptor;
+import org.mini2Dx.android.beans.IntrospectionException;
+import org.mini2Dx.android.beans.Introspector;
+import org.mini2Dx.android.beans.PropertyDescriptor;
 import java.io.IOException;
 import java.io.Writer;
 import java.lang.reflect.InvocationTargetException;

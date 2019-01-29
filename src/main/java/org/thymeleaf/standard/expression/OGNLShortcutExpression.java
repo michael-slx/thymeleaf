@@ -19,10 +19,10 @@
  */
 package org.thymeleaf.standard.expression;
 
-import java.beans.BeanInfo;
-import java.beans.IntrospectionException;
-import java.beans.Introspector;
-import java.beans.PropertyDescriptor;
+import org.mini2Dx.android.beans.BeanInfo;
+import org.mini2Dx.android.beans.IntrospectionException;
+import org.mini2Dx.android.beans.Introspector;
+import org.mini2Dx.android.beans.PropertyDescriptor;
 import java.lang.reflect.Array;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
